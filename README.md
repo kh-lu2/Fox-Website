@@ -1,2 +1,2 @@
-# Fox-Website
-Simple website as class assignment
+# Hacking Foxes
+A simple-yet-elegant website made using [Hacker theme](https://github.com/pages-themes/hacker), raising awereness about hacking foxes.
