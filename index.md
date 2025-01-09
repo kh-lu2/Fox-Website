@@ -5,7 +5,7 @@ This website was created to raise awereness about hacking foxes. If this topic r
 It is a special type of fox that is characterised by high intelligence, all black fur and terrific cybersecurity skills.
 
 ## Why talk about them?
-Because they are endangered and need our attention! There are only a couple of them, living in dusty server rooms...\
+Because they are endangered and need our attention! There are only a couple of them, living in dusty server rooms...
 
 # Let's save hacking foxes, together.
 
