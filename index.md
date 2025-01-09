@@ -1,4 +1,4 @@
-# FOXES CAN BE HACKERS, TOO
+# FOXES CAN BE HACKERS, TOO.
 This website was created to raise awereness about hacking foxes. If this topic resonates with you, please stay and read more.
 
 ## What is a hacking fox?
