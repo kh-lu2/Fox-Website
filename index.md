@@ -8,6 +8,7 @@ It is a special type of fox that is characterised by high intelligence, all blac
 Because they are endangered and need our attention! There are only a couple of them, living in dusty server rooms...
 
 # Let's save hacking foxes, together.
+[Donate now](https://hacking-foxes-donate.netlify.app/).
 
 ```
   _,-=._              /|_/|
